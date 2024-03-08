@@ -74,6 +74,11 @@ nav ul li a:hover {
     color: whitesmoke;
     list-style: none;
 }
+
+.btn a:hover{
+    color: rgb(8, 2, 71);
+    list-style: none;
+}
 .rightSection img {
     width: 100%;
     opacity: 150%;
